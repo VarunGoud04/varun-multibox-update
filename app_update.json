@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "apk_url": "https://your-link-to-apk.com/varun_multibox_v1.0.0.apk",
-  "whats_new": "Initial Release",
+  "latest_version": "2.0.0",
+  "apk_url": "https://github.com/VarunGoud04/varun-multibox-update/releases/download/v2.0.0/varun_multibox_v2.0.0.apk",
+  "whats_new": "• Initial Release\n• Memory Cards, QR Tools, PDF Tools, Resume Builder\n• Brick Breaker & Hangman Games",
   "force_update": false
 }

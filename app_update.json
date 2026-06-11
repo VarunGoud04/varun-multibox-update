@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.1.0",
-  "apk_url": "https://github.com/VarunGoud04/varun-multibox-update/releases/download/v2.1.0/app-release.apk",
-  "whats_new": "• New Update System Added\n• Bug Fixes & Improvements\n• Better Performance",
+  "latest_version": "2.2.0",
+  "apk_url": "https://github.com/VarunGoud04/varun-multibox-update/releases/download/v2.2.0/app-release.apk",
+  "whats_new": "• In-App Update System Added\n• UI Improvements\n• Bug Fixes",
   "force_update": false
 }
